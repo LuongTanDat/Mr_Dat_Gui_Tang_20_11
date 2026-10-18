@@ -1,0 +1,32 @@
+[
+  {
+    "path": "assets/image_01.webp",
+    "mime": "image/webp",
+    "bytes": 84438
+  },
+  {
+    "path": "assets/image_02.webp",
+    "mime": "image/webp",
+    "bytes": 27080
+  },
+  {
+    "path": "assets/image_03.png",
+    "mime": "image/png",
+    "bytes": 251538
+  },
+  {
+    "path": "assets/audio_04.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 2293165
+  },
+  {
+    "path": "assets/image_05.png",
+    "mime": "image/png",
+    "bytes": 396977
+  },
+  {
+    "path": "assets/video_06.webm",
+    "mime": "video/webm",
+    "bytes": 1736604
+  }
+]

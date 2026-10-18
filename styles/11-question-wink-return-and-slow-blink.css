@@ -1,0 +1,6 @@
+
+/* Mắt tự xoay theo SVG nguyên bản của cảnh nụ cười;
+   không xoay cả khung Tiny trong lúc nháy. */
+#khung-mat.wish-clover.wish-luck.question-one-eye {
+  animation: none !important;
+}
